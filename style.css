@@ -1,0 +1,38 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background: rgb(173, 32, 56);
+  color: white;
+  padding: 12rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: rgb(173, 32, 56);
+}
+section {
+  padding: 2rem;
+}
+.project {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 5px solid rgb(173, 32, 56);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ddd;
+  padding: 1rem;
+}
